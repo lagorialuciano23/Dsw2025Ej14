@@ -40,3 +40,6 @@ __Agregar al README lista de estudiantes que participaron y la comisión. Al fin
 __Código de ejemplo para importar los productos__ \
 `var json = await File.ReadAllTextAsync("products.json");` \
 `var products = JsonSerializer.Deserialize<List<Product>>(json);`
+
+Spinozzi Camila 58032 3k2
+Lagoria Villagran Luciano Emanuel 56838 3k4
